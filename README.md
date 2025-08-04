@@ -5,12 +5,12 @@ A comprehensive, step-by-step roadmap for a Full-Stack Developer. Covers modern 
 
 ## 📌 Table of Contents
 
-1. [Foundations - Core Prerequisites](#foundations---core-prerequisites)
-2. [Frontend (React / Next.js Ecosystem)](#frontend-react--nextjs-ecosystem)
-3. [Backend (Node.js + NestJS Ecosystem)](#backend-nodejs--nestjs-ecosystem)
-4. [DevOps / Infra](#devops--infra)
-5. [Performance, SEO & Best Practices](#performance-seo--best-practices)
-6. [Project Suggestions](#project-suggestions)
+1. [Foundations - (Core Prerequisites)](#-foundations-core-prerequisites)
+2. [Frontend (React / Next.js Ecosystem)](#%EF%B8%8F-frontend-react--nextjs-ecosystem)
+3. [Backend (Node.js + NestJS Ecosystem)](#-backend-nodejs--nestjs-ecosystem)
+4. [DevOps / Infra](#-devops--infra)
+5. [Performance, SEO & Best Practices](#-performance-seo--best-practices)
+6. [Project Suggestions](#-project-suggestions)
 
 ---
 
