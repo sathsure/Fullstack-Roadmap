@@ -18,7 +18,7 @@ A comprehensive, step-by-step roadmap for a Full-Stack Developer. Covers modern 
 
 - HTML
 - CSS (Flexbox, Grid, Animations)
-- JavaScript (ES6+)
+- JavaScript (ES6+, Closures [▶️](https://youtu.be/vKJpN5FAeF4?si=E9qVJ3yoTZsshMhY))
 - TypeScript
 - Git & GitHub
 - DOM & BOM [▶️](https://youtu.be/DIt6CbeR1Pg?si=AKoI31fGzEwU_qd5)
