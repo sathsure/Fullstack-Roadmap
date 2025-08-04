@@ -22,7 +22,7 @@ A comprehensive, step-by-step roadmap for a Full-Stack Developer. Covers modern 
 - TypeScript
 - Git & GitHub
 - DOM & BOM [▶️](https://youtu.be/DIt6CbeR1Pg?si=AKoI31fGzEwU_qd5)
-- Event Loop [▶️](https://youtu.be/8aGhZQkoFbQ?si=rUf_ahOy13qjOZwa)
+- Event Loop [▶️](https://youtu.be/8aGhZQkoFbQ?si=7feEmRy_F2tSICtp)
 - JSON, REST APIs
 - Package managers (npm, yarn)
 - CLI tools
