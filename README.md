@@ -34,8 +34,19 @@ A comprehensive, step-by-step roadmap for a Full-Stack Developer. Covers modern 
 ## ⚛️ Frontend (React / Next.js Ecosystem)
 
 ### Frameworks / Libraries
-- React (JSX, Hooks, Context, Performance)
-- Next.js (SSR, SSG, ISR, API Routes)
+- **React**
+    Development Server:
+      * webpack-dev-server – used in older setups (like Create React App).
+      * Vite – used in modern setups, faster due to native ES modules and esbuild.
+    Production Server:
+      * Node.js, Nginx, Apache, or cloud services like Vercel, Firebase, or Netlify.
+- **Angular**
+   Development Server:
+      * webpack-dev-server under the hood, configured by Angular CLI.
+   Production Server:
+      * Node.js, Nginx, Apache, or cloud services like Vercel, Firebase, or Netlify.
+- Next.js 
+- SSR, CSR, SSG, ISR [▶️](https://youtu.be/p02AIAoImzU?si=htlIQVewi6dQ7Wm4)
 
 ### Styling & UI
 - CSS-in-JS (styled-components, emotion)
