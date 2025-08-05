@@ -58,7 +58,7 @@ A comprehensive, step-by-step roadmap for a Full-Stack Developer. Covers modern 
   * #### DOM Updation:
       * Angular works with the real DOM, using **zone.js** to track asynchronous operations and automatically trigger **change detection**, which then scans the component tree to detect state changes and updates the UI accordingly.
 
-- Next.js (React Framework)
+- [![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)](https://nextjs.org) (React Framework)
 - SSR, CSR, SSG, ISR [▶️](https://youtu.be/p02AIAoImzU?si=htlIQVewi6dQ7Wm4) Example: Next.js
 
 ### Styling & UI
