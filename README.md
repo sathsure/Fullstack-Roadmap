@@ -32,19 +32,32 @@ A comprehensive, step-by-step roadmap for a Full-Stack Developer. Covers modern 
 ---
 
 ## ⚛️ Frontend (React / Next.js Ecosystem)
-
-### Frameworks / Libraries
-- **React**
-    Development Server:
+### | Frameworks / Libraries |
+- [![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://reactjs.org)
+  * #### Development Server:
       * webpack-dev-server – used in older setups (like Create React App).
       * Vite – used in modern setups, faster due to native ES modules and esbuild.
-    Production Server:
+  * #### Production Server:
       * Node.js, Nginx, Apache, or cloud services like Vercel, Firebase, or Netlify.
-- **Angular**
-   Development Server:
+  * #### Transpiler & Compiler:
+      * React uses **Babel** to transpile JSX into plain JavaScript, which the browser can execute directly.
+      * No need for a separate compiler — Everything runs in the browser using the JavaScript engine with the help of the Virtual DOM.
+  * #### DOM Updation:
+      * React updates the UI by using a **Virtual DOM** and a process called **reconciliation** to efficiently compare changes between renders and update only what’s necessary.
+
+- [![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)](https://angular.io)
+  * #### Development Server:
       * webpack-dev-server under the hood, configured by Angular CLI.
-   Production Server:
+  * #### Production Server:
       * Node.js, Nginx, Apache, or cloud services like Vercel, Firebase, or Netlify.
+  * #### Transpiler & Compiler:
+      * Angular uses the **Ivy compiler** first to process decorators and compile templates into JavaScript.
+      * Then, the **TypeScript compiler (tsc)** transpiles into final JavaScript.
+      * During development, Ivy uses a JIT (Just-in-Time) strategy to compile templates in the browser for faster rebuilds.
+      * During production, Ivy uses an AOT (Ahead-of-Time) strategy to compile everything at build time for optimized performance.
+  * #### DOM Updation:
+      * Angular works with the real DOM, using **zone.js** to track asynchronous operations and automatically trigger **change detection**, which then scans the component tree to detect state changes and updates the UI accordingly.
+
 - Next.js 
 - SSR, CSR, SSG, ISR [▶️](https://youtu.be/p02AIAoImzU?si=htlIQVewi6dQ7Wm4)
 
