@@ -25,6 +25,7 @@ A comprehensive, step-by-step roadmap for a Full-Stack Developer. Covers modern 
 - Event Loop [▶️](https://youtu.be/8aGhZQkoFbQ?si=7feEmRy_F2tSICtp)
 - JSON, REST APIs
 - Package managers (npm, yarn)
+- NX Monorepo [▶️](https://youtu.be/VUyBY72mwrQ?si=fsg-WA8noq7ILXgr)
 - CLI tools
 - Environment Variables
 
